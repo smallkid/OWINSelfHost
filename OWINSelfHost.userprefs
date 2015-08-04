@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="OWINSelfHost/OWINSelfHost.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OWINSelfHost/Bootstrapper.cs">
+    <Files>
+      <File FileName="OWINSelfHost/Program.cs" Line="4" Column="1" />
+      <File FileName="OWINSelfHost/RootProviderService.cs" Line="1" Column="1" />
+      <File FileName="OWINSelfHost/Startup.cs" Line="1" Column="1" />
+      <File FileName="OWINSelfHost/Views/_layout.html" Line="28" Column="84" />
+      <File FileName="OWINSelfHost/Views/Home/Contact.html" Line="4" Column="14" />
+      <File FileName="OWINSelfHost/Views/Home/Feature.html" Line="4" Column="13" />
+      <File FileName="OWINSelfHost/Views/Home/Home.html" Line="1" Column="1" />
+      <File FileName="OWINSelfHost/Modules/HomeModule.cs" Line="16" Column="25" />
+      <File FileName="OWINSelfHost/Scripts/jquery-1.9.1.min.js" Line="1" Column="1" />
+      <File FileName="OWINSelfHost/Scripts/jquery-1.9.1.min.map" Line="1" Column="1" />
+      <File FileName="OWINSelfHost/Bootstrapper.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OWINSelfHost" expanded="True">
+            <Node name="OWINSelfHost" expanded="True">
+              <Node name="Content" expanded="True" />
+              <Node name="Modules" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Bootstrapper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
